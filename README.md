@@ -6,5 +6,5 @@ In tower of babel we find and solve algorithm problems in all languages we know.
 We have different halls, complexes, and various structures to construct.
 
 Currently Tower of Babel is comprised of
-- Hall of Algorithms
-- Problems Complex
+- [Hall of Algorithms](https://github.com/tower-of-babel/problems-complex)
+- [Problems Complex](https://github.com/tower-of-babel/hall-of-algorithms)
